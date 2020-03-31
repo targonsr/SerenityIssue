@@ -1,0 +1,4 @@
+LOGIN,  PASSWORD, VALID
+some, invalid_password, false
+some,,false
+,, false
